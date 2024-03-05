@@ -2,12 +2,14 @@
 
 This Python script predicts the Time of Arrival (TOA) and gate boundaries for a pulsar for gated imaging applications. Currently, the code is tailored for GMRT observations 
 
-## Caution 
-The code currently is in a developing phase and requires sanity and validity checks which are currently in progress, any suggestions and comments are welcome. 
-I am working on a better more general documentation for the code. 
 ## Creator
 
 - Viren Mandaogane
+
+### **Caution** 
+The code currently is in a developing phase and requires sanity and validity checks which are currently in progress, any suggestions and comments are welcome. 
+I am working on a better more general documentation for the code. 
+
 
 ## Description
 
