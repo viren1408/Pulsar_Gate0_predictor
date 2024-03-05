@@ -32,10 +32,23 @@ This script takes observational parameters such as HDR file path, correlator sta
 - **gate_prediction_pipeline**: Runs the pipeline to predict TOA and gate boundaries for a pulsar.
 - **read_config**: Reads parameters from a configuration file.
 
+## Installation and Compilation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your_username/your_repository.git
+```
+2. To run the script:
+   - Edit the config file with required paramters
+   - simply run the script using :
+    ```bash
+    python GATE_0_pred1.py
+    ```  
 ## Usage
 
 1. Prepare a configuration file `gating_config.ini` with appropriate parameters.
-2. Run the script `gate_prediction_pipeline.py`.
+2. Run the script `GATE_0_pred1.py`.
 3. View the output for dispersed TOA, predicted TOA, maximum delay, and gate boundaries.
 
 ## Dependencies
