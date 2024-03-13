@@ -37,7 +37,7 @@ This script takes observational parameters such as HDR file path, correlator sta
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/viren1408/Pulsar_Gate0_predictor
 ```
 2. To run the script:
    - Edit the config file with required paramters
